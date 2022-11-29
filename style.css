@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -22,11 +22,11 @@ background-color: #acb9bf;
 
 .rectangle {
 width: 800px;
-height: 500px;    
+height: 700px;    
 background-color: white;
 padding: 25px;
 display: block;
-margin: 25px;
+margin: 50px;
 align-content: center;
 }
 
@@ -37,6 +37,7 @@ border-color: #47adf0;
 border-radius: 5px;
 margin-bottom: 5px;
 margin-left: 25px;
+
 }
 
 #section {
@@ -60,9 +61,44 @@ border-radius: 5px;
     font-weight:800;
 }
 
-#bottone-compito {
+#bottone-editorial {
     background-color: #47adf0;
     border-color: #47adf0;
+    border-radius: 15px;
+    color: white;
+}
+
+#bottone-q {
+    background-color: purple;
+    border-color: purple;
+    border-radius: 15px;
+    color: white;
+}
+
+#bottone-recruiting {
+    background-color: rgb(35, 201, 135);
+    border-color:rgb(35, 201, 135);
+    border-radius: 15px;
+    color: white;
+}
+
+#bottone-mobile {
+    background-color: rgb(232, 133, 39);
+    border-color:rgb(232, 133, 39);
+    border-radius: 15px;
+    color: white;
+}
+
+#bottone-website {
+    background-color: rgb(232, 39, 123);
+    border-color:rgb(232, 39, 123);
+    border-radius: 15px;
+    color: white;
+}
+
+#bottone-sales {
+    background-color: rgb(33, 246, 36);
+    border-color:rgb(33, 246, 36);
     border-radius: 15px;
     color: white;
 }
