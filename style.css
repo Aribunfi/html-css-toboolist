@@ -10,7 +10,7 @@ header {
 }
 
 .logo-testo {
-font-size: 30px;
+font-size: 40px;
 font-weight: bold;
 font-family:Verdana, Geneva, Tahoma, sans-serif;
 vertical-align: center;
@@ -41,4 +41,23 @@ margin-left: 25px;
 
 #section {
 border-radius: 5px;
+}
+
+#dettaglio1 {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top:25px;
+    margin-left: 25px;
+}
+
+#task1 {
+    margin-left: 25px;
+}
+
+#bottone-compito {
+    background-color: #47adf0;
+    border-color: #47adf0;
+    border-radius: 15px;
+    color: white;
 }
